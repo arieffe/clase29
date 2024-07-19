@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.home {
+  background-color: antiquewhite;
+  position: relative;
+}
+
+.home .receta1 {
+  background-color: darkgrey;
+  /* position: absolute;
+  align-self: center; */
+  /* width: 75%; */
+  /* align-self: center; */
+}
+
+.home .receta1 li {
+  list-style: none;
+}
+
+.home .receta2 {
+  background-color: darkgrey;
+}
+
+.home .receta2 li{
+  list-style: none;
+}
+
+.home img {
+  height: 200px;
+  border-radius: 20px;
+}
